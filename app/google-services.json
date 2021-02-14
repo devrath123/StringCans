@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1072853827286",
+    "project_id": "string-cans-901f9",
+    "storage_bucket": "string-cans-901f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072853827286:android:c5297bff7d35eaac759377",
+        "android_client_info": {
+          "package_name": "com.stringcans"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072853827286-8sfl7clarn9con8b5gmnposg61jqnkp2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD58DCxvxZTW1lenNa9LvoeHYm8rFGRoUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072853827286-8sfl7clarn9con8b5gmnposg61jqnkp2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
